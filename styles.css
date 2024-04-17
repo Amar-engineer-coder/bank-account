@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+input{
+    border-radius: 4px;
+    font-weight: 600;
+    font-style: normal;
+}
+button{
+    border-radius: 4px;
+    background-color: rgb(101, 163, 163);
+    font-weight: 600;
+}
